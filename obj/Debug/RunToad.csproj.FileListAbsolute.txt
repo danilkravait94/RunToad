@@ -1,0 +1,6 @@
+C:\Users\Олег\source\repos\RunToad\bin\Debug\RunToad.exe.config
+C:\Users\Олег\source\repos\RunToad\bin\Debug\RunToad.exe
+C:\Users\Олег\source\repos\RunToad\bin\Debug\RunToad.pdb
+C:\Users\Олег\source\repos\RunToad\obj\Debug\RunToad.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\RunToad\obj\Debug\RunToad.exe
+C:\Users\Олег\source\repos\RunToad\obj\Debug\RunToad.pdb
